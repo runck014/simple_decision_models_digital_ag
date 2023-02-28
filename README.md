@@ -25,4 +25,4 @@ What happens when there’s so much data, you and your team don’t know where t
 
 ## Resources
 - Hubbard (2014). How to measure anything. 3rd Edition. Wiley.
-- 
+- Malczewski and Rinner (2015). Multicriteria Decision Analysis in Geographic Information Science. Springer.
