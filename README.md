@@ -22,3 +22,7 @@ What happens when there’s so much data, you and your team don’t know where t
 - Develop weighting schemes for multiple sources of data using individual decision-maker and group-based approaches
 - Build simple and correct linear and geometric weighted models to generate decision-support indices
 - Use decision-support indices iteratively in a group setting to understand the benefits and costs of different decision options
+
+## Resources
+- Hubbard (2014). How to measure anything. 3rd Edition. Wiley.
+- 
