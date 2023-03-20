@@ -12,6 +12,7 @@ Data is everywhere in agriculture, but knowing what to do with it isn't always e
 - Perform basic data visualization in Excel, R, Python, and QGIS including importing data (csv, shapefiles), subsetting data, and making boxplots, scatterplots, histograms, choropleth maps, and dot maps
 - Describe the decision-maker(s) each data visualization is targeted at and the appropriate uses and pitfalls of interpretation to guard against
 
+
 ## Part 2: Using Simple Models to Guide Decision-Making
 
 What happens when there’s so much data, you and your team don’t know where to look to use the data to support decision-making? This happens all the time in agriculture. In this course, learners will see how simple modeling techniques can be used to prioritize decision options and focus the attention of decision-makers on the information that matters.
@@ -26,3 +27,5 @@ What happens when there’s so much data, you and your team don’t know where t
 ## Resources
 - Hubbard (2014). How to measure anything. 3rd Edition. Wiley.
 - Malczewski and Rinner (2015). Multicriteria Decision Analysis in Geographic Information Science. Springer.
+- Spector, A., Norvig, P., Wiggins, C., & Wing, J. (2022). Data Science in Context: Foundations, Challenges, Opportunities. Cambridge: Cambridge University Press. doi:10.1017/9781009272230
+
