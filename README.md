@@ -12,6 +12,15 @@ Data is everywhere in agriculture, but knowing what to do with it isn't always e
 - Perform basic data visualization in Excel, R, Python, and QGIS including importing data (csv, shapefiles), subsetting data, and making boxplots, scatterplots, histograms, choropleth maps, and dot maps
 - Describe the decision-maker(s) each data visualization is targeted at and the appropriate uses and pitfalls of interpretation to guard against
 
+### Resources
+- [Slides](https://www.dropbox.com/scl/fi/c0c2xj5x1tkehelzlbk9g/GEMS-x007-1-Digital-Agriculture-Getting-Started-Using-Data-to-Support-Decisions.pptx?rlkey=896ql9mpv1yxhusrhg636gg0w&dl=0)
+- [Decision Analysis Worksheet](https://www.dropbox.com/scl/fi/a2138huqb265ul84bmulk/decision_analysis_worksheet.xlsx?rlkey=imqojtulm4cla05awt59d4ymr&dl=0)
+- [Example Distance Dataset](https://www.dropbox.com/scl/fi/7izl2u1c2f36f0m157rhg/Digital-Agriculture-Case-Studies.docx?rlkey=h5emtmwt93470q8k20ffdus1a&dl=0)
+- [Digital Ag Case Studies](https://www.dropbox.com/scl/fi/7izl2u1c2f36f0m157rhg/Digital-Agriculture-Case-Studies.docx?rlkey=h5emtmwt93470q8k20ffdus1a&dl=0)
+
+
+
+
 
 ## Part 2: Using Simple Models to Guide Decision-Making
 
