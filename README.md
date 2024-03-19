@@ -4,7 +4,7 @@
 
 Prerequisites: This course is intended for students with limited or no background with data, but have practical experience working in agriculture, food, or environment.
 
-Data is everywhere in agriculture, but knowing what to do with it isn't always easy or straightforward. This module will give you the basic tools for analyzing a decision-making context, evaluating the data needs, collecting or integrating data, and then performing basic analysis and visualization in Excel, R, Python, and QGIS. We will also cover some of the common pitfalls of using data to drive decision-making to be sure you and your teams can avoid them.
+Data is everywhere in agriculture, but knowing what to do with it isn't always easy or straightforward. This module will give you the basic tools for analyzing a decision-making context, evaluating the data needs, collecting or integrating data, and then performing basic analysis and visualization. We will also cover some of the common pitfalls of using data to drive decision-making to be sure you and your teams can avoid them.
  
 #### Objectives
 - Analyze a decision-making context to identify what the decision is, what options exist for decision-making, who the decision-maker(s) is (are), what mechanisms of decision-making are used
