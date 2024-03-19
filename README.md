@@ -9,7 +9,7 @@ Data is everywhere in agriculture, but knowing what to do with it isn't always e
 #### Objectives
 - Analyze a decision-making context to identify what the decision is, what options exist for decision-making, who the decision-maker(s) is (are), what mechanisms of decision-making are used
 - Identify what data exists and what data needs to be collected or integrated to support decision-making
-- Perform basic data visualization in Excel, R, Python, and QGIS including importing data (csv, shapefiles), subsetting data, and making boxplots, scatterplots, histograms, choropleth maps, and dot maps
+- Perform basic data visualization
 - Describe the decision-maker(s) each data visualization is targeted at and the appropriate uses and pitfalls of interpretation to guard against
 
 ### Resources
