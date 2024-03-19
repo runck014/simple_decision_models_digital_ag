@@ -18,6 +18,7 @@ Data is everywhere in agriculture, but knowing what to do with it isn't always e
 - [Decision Analysis Worksheet](https://www.dropbox.com/scl/fi/a2138huqb265ul84bmulk/decision_analysis_worksheet.xlsx?rlkey=imqojtulm4cla05awt59d4ymr&dl=0)
 - [Example Distance Dataset](https://www.dropbox.com/scl/fi/op5weapnpq2agild69a7g/clc_distance_dataset.xlsx?rlkey=u81d9agq0oi96spzkrloqwpr5&dl=0)
 - [Digital Ag Case Studies](https://www.dropbox.com/scl/fi/7izl2u1c2f36f0m157rhg/Digital-Agriculture-Case-Studies.docx?rlkey=h5emtmwt93470q8k20ffdus1a&dl=0)
+- [Biases reading](https://www.dropbox.com/scl/fi/chknvvz8t08bo8hfh64pn/Spector-et-al-2022-Ch-11-Understandability-biases-section.pdf?rlkey=ly5a0lm9qv9mdthnh7r3px3jg&dl=0)
 
 
 
