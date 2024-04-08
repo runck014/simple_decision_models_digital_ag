@@ -36,6 +36,7 @@ What happens when there’s so much data, you and your team don’t know where t
 - Use decision-support indices iteratively in a group setting to understand the benefits and costs of different decision options
 
 ## Resources
+- [Slides](https://docs.google.com/presentation/d/1_mMZiEI-8P1Aj7ajpBbeoupwVIn5vQjM/edit#slide=id.p1)
 - Hubbard (2014). How to measure anything. 3rd Edition. Wiley.
 - Malczewski and Rinner (2015). Multicriteria Decision Analysis in Geographic Information Science. Springer.
 - Spector, A., Norvig, P., Wiggins, C., & Wing, J. (2022). Data Science in Context: Foundations, Challenges, Opportunities. Cambridge: Cambridge University Press. doi:10.1017/9781009272230
